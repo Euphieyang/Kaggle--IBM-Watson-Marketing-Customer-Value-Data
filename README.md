@@ -48,16 +48,19 @@
 以luxury系列車款與賠償金額較相關性較高，推估可能是因為其本身車款維修費用較高，抑或是其車禍嚴重程度高的關係<br>
 
 ## 5. Find three business insights
-1.	強化網站銷售管道<br>
-   我們可以從圖知道，不管是哪種方案，大眾仍較多是透過Agent申請保險，其次為Branch，且以Basic最多，Premium方案為最少人申請，而且以網站申請Premium方案，次數都是最少的。<br>
-
+### 1.	強化網站銷售管道<br>
+   我們可以從圖知道，不管是哪種方案，大眾仍較多是透過Agent申請保險，其次為Branch，且以Basic最多，Premium方案為最少人申請<br>
+   而且以網站申請Premium方案，次數都是最少的。<br>
+   
     可推估，當大眾簽訂保單時，大眾會傾向找尋Agent來為自己服務，以尋得信任及安心感，因此公司須加強Agent的人員培訓。<br>
     除此之外，若公司希望能透過Web管道，增加公司行政效率，減少Call Center人事上成本的話，或許應考慮多向民眾宣傳，使用Web方式申請，並搭配獎勵活動，提高申辦意願，例如: 贈送虛擬點數，兌換連鎖餐廳小餐點、邀請好友申請，可獲得100元好友獎勵。<br>
+![Image](https://github.com/Euphieyang/Kaggle--IBM-Watson-Marketing-Customer-Value-Data/blob/pic/5-1.jpg)<br>
+    
 
    
-2. 調整既有方案內容
+### 2. 調整既有方案內容<br>
    從統計資料中，可得知不同方案類型的保戶，他們最多人選擇更新的保險內容為offer1，推估此內容吸引保戶，保險公司可考慮將offer1內容加入至既有保險方案之中，以吸引目前非保戶族群購買保險<br>
-
+    ![Image](https://github.com/Euphieyang/Kaggle--IBM-Watson-Marketing-Customer-Value-Data/blob/pic/5-2.png)<br>
 
 3. 保險公司主要顧客群
    從圖表可知，保險公司的顧客明顯分布於郊區，且根據autoviz所呈現各居住類型中，郊區的平均賠償金額較高<br>
@@ -65,7 +68,7 @@
    
    原先推估是因為居住在郊區的居民，上班地點在都市的關係，需時常往返兩地，而提高其發生嚴重車禍，因此賠償金額較高的緣故<br>
    然而卻發現賠償金額高的保戶，其職業狀態是失業，保險公司可能需要去深入了解大部分失業保戶的車禍原因主要是為何。<br>
-
+ ![Image](https://github.com/Euphieyang/Kaggle--IBM-Watson-Marketing-Customer-Value-Data/blob/pic/5-3.jpg)<br>
    
 4. 保險公司前端20%顧客
    依據 80/20法則，公司大部分的利潤來自於前端部分的顧客，因此先透過前25%顧客終身價值的客戶，了解這間保險公司主要保戶樣貌，我們可知前25%具潛力性的被保人，共有2025位，其中58.8%為已婚狀態，其次為25.6%單身者，最後是15.7%的離婚者<br>
@@ -75,5 +78,5 @@
    除此之外，能為保險公司創造平均淨收益的顧客佔大多數為Extended 保險類型，駕駛Luxury系列的車主
    而較特別的是，保premium方案的Sports car顧客，所創造的淨收益大，因此保險公司可考慮透過搭售的方式，與Sports car、Luxury車款廠商合作，向顧客推銷Extend及Premium方案<br>
 
-   另一點，值得提的是，前端保戶中，其premium方案自動轉帳的金額與總賠償金額，呈現將近0.7的正相關性
-
+   另一點，值得提的是，前端保戶中，其premium方案自動轉帳的金額與總賠償金額，呈現將近0.7的正相關性<br>
+ ![Image](https://github.com/Euphieyang/Kaggle--IBM-Watson-Marketing-Customer-Value-Data/blob/pic/5-4.jpg)<br>
