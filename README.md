@@ -49,10 +49,13 @@
 
 ## 5. Find three business insights
 1.	強化網站銷售管道<br>
-   我們可以從圖知道，不管是哪種方案，大眾仍較多是透過Agent申請保險，其次為Branch，且以Basic最多，Premium方案為最少人申請，而且以網站申請Premium方案，次數都是最少的。<br>
-
+   我們可以從圖知道，不管是哪種方案，大眾仍較多是透過Agent申請保險，其次為Branch，且以Basic最多，Premium方案為最少人申請<br>
+   而且以網站申請Premium方案，次數都是最少的。<br>
+   
     可推估，當大眾簽訂保單時，大眾會傾向找尋Agent來為自己服務，以尋得信任及安心感，因此公司須加強Agent的人員培訓。<br>
     除此之外，若公司希望能透過Web管道，增加公司行政效率，減少Call Center人事上成本的話，或許應考慮多向民眾宣傳，使用Web方式申請，並搭配獎勵活動，提高申辦意願，例如: 贈送虛擬點數，兌換連鎖餐廳小餐點、邀請好友申請，可獲得100元好友獎勵。<br>
+![Image](https://github.com/Euphieyang/Kaggle--IBM-Watson-Marketing-Customer-Value-Data/blob/pic/5-1.jpg)<br>
+    
 
    
 2. 調整既有方案內容
